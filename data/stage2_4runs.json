@@ -1259,7 +1259,16 @@
         "total_epochs": 120
       },
       "model_version_id": "01a212e2-99b3-7970-bb3a-105b478225a0",
-      "error_message": null
+      "error_message": null,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 120,
+      "epochs_ran": 120,
+      "batch_size": 16,
+      "train_duration_sec": 1960.3,
+      "train_duration_min": 32.67,
+      "gpu_hours": 0.5453,
+      "relative_train_time": 6.75
     },
     "S2_D2_yolov9c_768": {
       "job_id": "01a212c4-a55d-7a33-90d4-5f2041d31b1b",
@@ -5292,7 +5301,19 @@
         }
       },
       "model_version_id": "01a212d4-1b2d-73f2-a673-c2c336a89b0d",
-      "error_message": null
+      "error_message": null,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 75,
+      "epochs_ran": 75,
+      "batch_size": 16,
+      "train_duration_sec": 1005.5,
+      "train_duration_min": 16.76,
+      "gpu_hours": 0.2806,
+      "relative_train_time": 2.21,
+      "peak_vram_gb": 14.33,
+      "avg_epoch_sec": 12.6,
+      "avg_throughput_ips": 99.1
     },
     "S2_D1_yolo26l_960": {
       "job_id": "01a212c4-afdd-7f53-868b-0d78fbb9f3ff",
@@ -6436,7 +6457,19 @@
         }
       },
       "model_version_id": "01a212de-b681-7560-bd93-5aed6b68a593",
-      "error_message": null
+      "error_message": null,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 960,
+      "epochs_configured": 70,
+      "epochs_ran": 70,
+      "batch_size": 16,
+      "train_duration_sec": 1700.6,
+      "train_duration_min": 28.34,
+      "gpu_hours": 0.4728,
+      "relative_train_time": 2.24,
+      "peak_vram_gb": 21.16,
+      "avg_epoch_sec": 23.3,
+      "avg_throughput_ips": 80.9
     },
     "S2_D3_yolo26l_768": {
       "job_id": "01a212c4-ba67-7e61-af8d-509cc5184f91",
@@ -7514,8 +7547,26 @@
         }
       },
       "model_version_id": "01a212d8-125c-7de1-9c08-e9f841af7625",
-      "error_message": null
+      "error_message": null,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 70,
+      "epochs_ran": 70,
+      "batch_size": 16,
+      "train_duration_sec": 1260.5,
+      "train_duration_min": 21.01,
+      "gpu_hours": 0.3511,
+      "relative_train_time": 2.12,
+      "peak_vram_gb": 14.09,
+      "avg_epoch_sec": 17.0,
+      "avg_throughput_ips": 109.1
     }
   },
-  "updated_at_tsi": "2026-11-25 16:26:28 TSİ"
+  "updated_at_tsi": "2026-11-25 16:26:28 TSİ",
+  "hardware_environment": {
+    "training_gpu": "1x NVIDIA H200 (141 GB HBM3e), mixed precision (AMP)",
+    "onnx_cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz, ONNX Runtime FP32, 4 intra-op threads",
+    "total_runs": 24,
+    "total_training_gpu_hours": 10.95
+  }
 }

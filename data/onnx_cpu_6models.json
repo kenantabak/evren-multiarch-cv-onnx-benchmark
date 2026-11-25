@@ -32,7 +32,11 @@
     ],
     "cpu_ms_median": 337.4,
     "cpu_ms_mean": 350.4,
-    "cpu_fps": 2.96
+    "cpu_fps": 2.96,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   },
   {
     "name": "D3_yolo26l",
@@ -67,7 +71,11 @@
     ],
     "cpu_ms_median": 604.0,
     "cpu_ms_mean": 604.6,
-    "cpu_fps": 1.66
+    "cpu_fps": 1.66,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   },
   {
     "name": "D2_yolov9c",
@@ -102,7 +110,11 @@
     ],
     "cpu_ms_median": 592.0,
     "cpu_ms_mean": 561.8,
-    "cpu_fps": 1.69
+    "cpu_fps": 1.69,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   },
   {
     "name": "D2_rtdetr-l",
@@ -137,7 +149,11 @@
     ],
     "cpu_ms_median": 884.7,
     "cpu_ms_mean": 915.5,
-    "cpu_fps": 1.13
+    "cpu_fps": 1.13,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   },
   {
     "name": "D2_dfine-m",
@@ -181,7 +197,11 @@
     ],
     "cpu_ms_median": 336.6,
     "cpu_ms_mean": 360.2,
-    "cpu_fps": 2.97
+    "cpu_fps": 2.97,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   },
   {
     "name": "D3_rfdetr-base",
@@ -225,6 +245,10 @@
     ],
     "cpu_ms_median": 495.9,
     "cpu_ms_mean": 561.1,
-    "cpu_fps": 2.02
+    "cpu_fps": 2.02,
+    "cpu_hardware": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+    "onnxruntime_provider": "CPUExecutionProvider",
+    "threads": 4,
+    "precision": "FP32"
   }
 ]
