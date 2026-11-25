@@ -1037,7 +1037,19 @@
       },
       "model_version_id": "01a21219-de22-7653-bee3-7b55babc29b0",
       "error_message": null,
-      "actual_gpu_hours": 0.0817
+      "actual_gpu_hours": 0.0817,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 32,
+      "train_duration_sec": 290.5,
+      "train_duration_min": 4.84,
+      "gpu_hours": 0.0817,
+      "relative_train_time": 1.0,
+      "peak_vram_gb": 17.91,
+      "avg_epoch_sec": 3.9,
+      "avg_throughput_ips": 187.1
     },
     "D4_Mikroskopi__yolov9c": {
       "job_id": "01a21215-6571-70a3-a6e5-752cd87b1d6b",
@@ -2009,7 +2021,19 @@
       },
       "model_version_id": "01a2121b-8adf-7891-a9a3-ffad0165581e",
       "error_message": null,
-      "actual_gpu_hours": 0.1114
+      "actual_gpu_hours": 0.1114,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 395.3,
+      "train_duration_min": 6.59,
+      "gpu_hours": 0.1114,
+      "relative_train_time": 1.36,
+      "peak_vram_gb": 11.62,
+      "avg_epoch_sec": 5.6,
+      "avg_throughput_ips": 111.5
     },
     "D4_Mikroskopi__rtdetr-l": {
       "job_id": "01a21215-6f20-7101-a7e5-3c2f3d9372fe",
@@ -2750,7 +2774,19 @@
       },
       "model_version_id": "01a21221-5834-78b2-b896-05f1d2e0244a",
       "error_message": null,
-      "actual_gpu_hours": 0.2161
+      "actual_gpu_hours": 0.2161,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 775.6,
+      "train_duration_min": 12.93,
+      "gpu_hours": 0.2161,
+      "relative_train_time": 2.67,
+      "peak_vram_gb": 20.58,
+      "avg_epoch_sec": 11.5,
+      "avg_throughput_ips": 47.9
     },
     "D4_Mikroskopi__dfine-m": {
       "job_id": "01a21215-7834-7742-afdb-35c22801e9b2",
@@ -3409,7 +3445,16 @@
       },
       "model_version_id": "01a21226-4d7a-7190-9d16-ed115b1281cf",
       "error_message": null,
-      "actual_gpu_hours": 0.3053
+      "actual_gpu_hours": 0.3053,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 1095.6,
+      "train_duration_min": 18.26,
+      "gpu_hours": 0.3053,
+      "relative_train_time": 3.77
     },
     "D4_Mikroskopi__rfdetr-base": {
       "job_id": "01a21215-80db-7e81-8627-597ffa67f869",
@@ -3868,7 +3913,17 @@
       },
       "model_version_id": "01a21244-95e9-72c0-af65-e065cbb8d89e",
       "error_message": null,
-      "actual_gpu_hours": 0.8544
+      "actual_gpu_hours": 0.8544,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 560,
+      "epochs_configured": 40,
+      "epochs_ran": 40,
+      "batch_size": 16,
+      "train_duration_sec": 3074.5,
+      "train_duration_min": 51.24,
+      "gpu_hours": 0.8544,
+      "relative_train_time": 10.58,
+      "peak_vram_gb": 54.12
     },
     "D2_Trafik49__yolo26m": {
       "job_id": "01a2121a-1e26-70c0-b903-eb5b2a0c9c2e",
@@ -7692,7 +7747,19 @@
       },
       "model_version_id": "01a21221-1cbf-7ce3-805e-b289982cba9e",
       "error_message": null,
-      "actual_gpu_hours": 0.1269
+      "actual_gpu_hours": 0.1269,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 32,
+      "train_duration_sec": 455.4,
+      "train_duration_min": 7.59,
+      "gpu_hours": 0.1269,
+      "relative_train_time": 1.0,
+      "peak_vram_gb": 14.82,
+      "avg_epoch_sec": 6.5,
+      "avg_throughput_ips": 207.1
     },
     "D2_Trafik49__yolov9c": {
       "job_id": "01a2121c-008f-7432-81f0-d63a8faf194d",
@@ -11516,7 +11583,19 @@
       },
       "model_version_id": "01a21226-8796-7952-80a5-00d20c9ec710",
       "error_message": null,
-      "actual_gpu_hours": 0.1911
+      "actual_gpu_hours": 0.1911,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 685.4,
+      "train_duration_min": 11.42,
+      "gpu_hours": 0.1911,
+      "relative_train_time": 1.51,
+      "peak_vram_gb": 10.19,
+      "avg_epoch_sec": 10.1,
+      "avg_throughput_ips": 124.9
     },
     "D2_Trafik49__rtdetr-l": {
       "job_id": "01a21221-a207-7080-87a2-3c18de7c2fc2",
@@ -15072,7 +15151,19 @@
       },
       "model_version_id": "01a21235-b6c0-73c0-8258-2c89d3d286f0",
       "error_message": null,
-      "actual_gpu_hours": 0.3653
+      "actual_gpu_hours": 0.3653,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 60,
+      "epochs_ran": 57,
+      "batch_size": 16,
+      "train_duration_sec": 1310.4,
+      "train_duration_min": 21.84,
+      "gpu_hours": 0.3653,
+      "relative_train_time": 2.88,
+      "peak_vram_gb": 15.13,
+      "avg_epoch_sec": 21.7,
+      "avg_throughput_ips": 54.6
     },
     "D2_Trafik49__dfine-m": {
       "job_id": "01a21221-ab5a-7852-8ef6-bd1a459cb153",
@@ -15959,7 +16050,16 @@
       },
       "model_version_id": "01a2123c-e734-7e10-bef2-fd647fcf7005",
       "error_message": null,
-      "actual_gpu_hours": 0.4947
+      "actual_gpu_hours": 0.4947,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 1781.6,
+      "train_duration_min": 29.69,
+      "gpu_hours": 0.4947,
+      "relative_train_time": 3.91
     },
     "D2_Trafik49__rfdetr-base": {
       "job_id": "01a21226-c3a9-75e0-8823-aef7d958d668",
@@ -16646,7 +16746,17 @@
       },
       "model_version_id": "01a2124e-bceb-7ae0-b97f-b9b1f356cf6c",
       "error_message": null,
-      "actual_gpu_hours": 0.7272
+      "actual_gpu_hours": 0.7272,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 560,
+      "epochs_configured": 40,
+      "epochs_ran": 40,
+      "batch_size": 16,
+      "train_duration_sec": 2615.6,
+      "train_duration_min": 43.59,
+      "gpu_hours": 0.7272,
+      "relative_train_time": 5.74,
+      "peak_vram_gb": 19.53
     },
     "D1_Izolator__yolo26m": {
       "job_id": "01a21226-cd66-7590-bec6-5432fb8434fc",
@@ -17651,7 +17761,19 @@
       },
       "model_version_id": "01a21232-826b-7780-bd10-efed478fce7f",
       "error_message": null,
-      "actual_gpu_hours": 0.2125
+      "actual_gpu_hours": 0.2125,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 32,
+      "train_duration_sec": 760.3,
+      "train_duration_min": 12.67,
+      "gpu_hours": 0.2125,
+      "relative_train_time": 1.0,
+      "peak_vram_gb": 21.05,
+      "avg_epoch_sec": 11.7,
+      "avg_throughput_ips": 170.6
     },
     "D1_Izolator__yolov9c": {
       "job_id": "01a21232-cb58-7722-bd7a-538f55d30ad7",
@@ -18656,7 +18778,19 @@
       },
       "model_version_id": "01a21244-5dde-7143-bd99-631fedc35d93",
       "error_message": null,
-      "actual_gpu_hours": 0.3192
+      "actual_gpu_hours": 0.3192,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 1145.5,
+      "train_duration_min": 19.09,
+      "gpu_hours": 0.3192,
+      "relative_train_time": 1.51,
+      "peak_vram_gb": 14.24,
+      "avg_epoch_sec": 18.2,
+      "avg_throughput_ips": 104.0
     },
     "D1_Izolator__rtdetr-l": {
       "job_id": "01a21236-097a-7cd2-9b23-ebb0bbdb795e",
@@ -19417,7 +19551,19 @@
       },
       "model_version_id": "01a21255-256b-7760-ad99-1c64c59b9fcf",
       "error_message": null,
-      "actual_gpu_hours": 0.5658
+      "actual_gpu_hours": 0.5658,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 768,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 2035.0,
+      "train_duration_min": 33.92,
+      "gpu_hours": 0.5658,
+      "relative_train_time": 2.68,
+      "peak_vram_gb": 15.1,
+      "avg_epoch_sec": 32.7,
+      "avg_throughput_ips": 56.4
     },
     "D1_Izolator__dfine-m": {
       "job_id": "01a2123c-faa8-71f2-a339-e82817958224",
@@ -20082,7 +20228,16 @@
       },
       "model_version_id": "01a21263-4291-72e3-b3a9-6d5210a97ea1",
       "error_message": null,
-      "actual_gpu_hours": 0.6964
+      "actual_gpu_hours": 0.6964,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 2505.4,
+      "train_duration_min": 41.76,
+      "gpu_hours": 0.6964,
+      "relative_train_time": 3.3
     },
     "D1_Izolator__rfdetr-base": {
       "job_id": "01a21244-cf91-76e1-8373-71bda5cc5693",
@@ -20547,7 +20702,17 @@
       },
       "model_version_id": "01a21288-b0f0-7ed1-8522-cd0bde31dccd",
       "error_message": null,
-      "actual_gpu_hours": 1.2353
+      "actual_gpu_hours": 1.2353,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 560,
+      "epochs_configured": 40,
+      "epochs_ran": 40,
+      "batch_size": 16,
+      "train_duration_sec": 4443.3,
+      "train_duration_min": 74.06,
+      "gpu_hours": 1.2353,
+      "relative_train_time": 5.84,
+      "peak_vram_gb": 19.51
     },
     "D3_CiltLez__yolo26m": {
       "job_id": "01a21244-d88c-7580-a02e-c4de8f1604cf",
@@ -21486,7 +21651,19 @@
       },
       "model_version_id": "01a2124e-0cd8-77a3-8ae8-b0e4ac04e391",
       "error_message": null,
-      "actual_gpu_hours": 0.1669
+      "actual_gpu_hours": 0.1669,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 32,
+      "train_duration_sec": 595.4,
+      "train_duration_min": 9.92,
+      "gpu_hours": 0.1669,
+      "relative_train_time": 1.0,
+      "peak_vram_gb": 15.19,
+      "avg_epoch_sec": 9.1,
+      "avg_throughput_ips": 216.3
     },
     "D3_CiltLez__yolov9c": {
       "job_id": "01a2124e-7cb0-77e3-ac61-fd8723ef7f36",
@@ -22425,7 +22602,19 @@
       },
       "model_version_id": "01a2125d-c554-7503-bc21-15d2460d8b8c",
       "error_message": null,
-      "actual_gpu_hours": 0.2778
+      "actual_gpu_hours": 0.2778,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 995.5,
+      "train_duration_min": 16.59,
+      "gpu_hours": 0.2778,
+      "relative_train_time": 1.67,
+      "peak_vram_gb": 10.33,
+      "avg_epoch_sec": 15.6,
+      "avg_throughput_ips": 119.6
     },
     "D3_CiltLez__rtdetr-l": {
       "job_id": "01a2124f-00d8-7c71-8e4a-dddbd7c0eecb",
@@ -23124,7 +23313,19 @@
       },
       "model_version_id": "01a21267-3a46-7b50-ab22-ad86f68b7b58",
       "error_message": null,
-      "actual_gpu_hours": 0.4406
+      "actual_gpu_hours": 0.4406,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 1580.4,
+      "train_duration_min": 26.34,
+      "gpu_hours": 0.4406,
+      "relative_train_time": 2.65,
+      "peak_vram_gb": 11.8,
+      "avg_epoch_sec": 25.1,
+      "avg_throughput_ips": 71.1
     },
     "D3_CiltLez__dfine-m": {
       "job_id": "01a21255-6b7e-78b3-a764-b47634140efd",
@@ -23771,7 +23972,16 @@
       },
       "model_version_id": "01a21281-d276-7c41-9406-eaeb8da689fb",
       "error_message": null,
-      "actual_gpu_hours": 0.8053
+      "actual_gpu_hours": 0.8053,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 640,
+      "epochs_configured": 60,
+      "epochs_ran": 60,
+      "batch_size": 16,
+      "train_duration_sec": 2903.2,
+      "train_duration_min": 48.39,
+      "gpu_hours": 0.8053,
+      "relative_train_time": 4.88
     },
     "D3_CiltLez__rfdetr-base": {
       "job_id": "01a2125e-35e8-7451-9f2a-de5c9863c5af",
@@ -24218,9 +24428,25 @@
       },
       "model_version_id": "01a2129c-438c-7cb2-8fa1-a582b81c36c5",
       "error_message": null,
-      "actual_gpu_hours": 1.1289
+      "actual_gpu_hours": 1.1289,
+      "hardware": "1x NVIDIA H200 (141 GB HBM3e, AMP)",
+      "imgsz": 560,
+      "epochs_configured": 40,
+      "epochs_ran": 40,
+      "batch_size": 16,
+      "train_duration_sec": 4061.1,
+      "train_duration_min": 67.69,
+      "gpu_hours": 1.1289,
+      "relative_train_time": 6.82,
+      "peak_vram_gb": 20.04
     }
   },
   "halted_reason": null,
-  "updated_at_tsi": "2026-11-25 15:09:37 TSİ"
+  "updated_at_tsi": "2026-11-25 15:09:37 TSİ",
+  "hardware_environment": {
+    "training_gpu": "1x NVIDIA H200 (141 GB HBM3e), mixed precision (AMP)",
+    "onnx_cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz, ONNX Runtime FP32, 4 intra-op threads",
+    "total_runs": 24,
+    "total_training_gpu_hours": 10.95
+  }
 }
